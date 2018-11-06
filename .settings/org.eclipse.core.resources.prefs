@@ -1,0 +1,5 @@
+eclipse.preferences.version=1
+encoding//resources/c3p0.properties=UTF-8
+encoding//resources/db.properties=UTF-8
+encoding//resources/dbcp.properties=UTF-8
+encoding//resources/druid.properties=UTF-8
